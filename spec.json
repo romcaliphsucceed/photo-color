@@ -1,0 +1,50 @@
+{
+    "name":  "photo-color",
+    "logo":  "🎨",
+    "exe":  "PhotoColor.exe",
+    "desc":  "Free, open-source photo colorizer for Windows — bring black-and-white shots to life locally, batch albums. 100 MB portable, offline, MIT.",
+    "topics":  [
+                   "colorization",
+                   "black-and-white",
+                   "photo-editing",
+                   "onnx",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "old-photos",
+                   "batch-processing",
+                   "palette-control",
+                   "skin-tones",
+                   "restoration",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **One-click colorize** — grayscale photos get natural color from a local model in seconds",
+                     "✅ **Palette nudges** — warmth, saturation and skin tone sliders fix the AI\u0027s odd choices",
+                     "✅ **Batch album mode** — 300 family scans colorized with consistent settings",
+                     "✅ **Saturation limiter** — stops the candy-color look that plagues automatic colorizers",
+                     "✅ **Split view** — draggable divider between original and colorized at matching zoom",
+                     "✅ **Sidecar settings** — every output remembers which sliders produced it, reproducible later",
+                     "✅ **100 MB self-contained exe** — runtime bundled, models download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **photo-color** | DeOldify scripts | MyHeritage | Photoshop colorize |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Free, OSS | Paid | Subscription |",
+                    "| Open source | **Yes** | Yes | No | No",
+                    "| Batch albums | **Yes** | Scripted | No | Manual",
+                    "| Photos stay local | **Yes** | Yes | Upload | Yes",
+                    "| Palette fine-tuning | **Yes** | No | No | Partial",
+                    "| Portable, no install | **Yes, 100 MB** | Python env plus GPU setup | Browser | Installer"
+                ],
+    "faqQ":  "how to colorize old black and white photos free on Windows?",
+    "faqA":  "The open colorizer is a research repo with GPU setup pain, and the friendly services upload your family photos and bill per image. photo-color runs local models, tames saturation and colorizes whole albums in batch. It is a 100 MB portable exe, MIT, offline.",
+    "s1":  "Dark studio (#121418, rose #F43F5E): split divider over a colorized wedding portrait, saturation limiter dial at 0.5, warmth and skin tone sliders below.",
+    "s2":  "Batch album: 300 scans with thumbnails filling in colorized, consistent settings locked badge, progress at 61 percent, ETA chip.",
+    "s3":  "Settings history: sidecar card listing last export with all slider values, reopen settings action, before and after strip at the bottom."
+}
